@@ -13,7 +13,7 @@ My LeetCode solutions with multiple approaches in C++
 
 ## 📊 LeetCode Stats (Live)
 
-- Total Problems Solved: 60+
+- Total Problems Solved: 70+
 - Easy: 31+
 - Medium: 34+
 - Hard: 5+
