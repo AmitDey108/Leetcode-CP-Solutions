@@ -14,10 +14,10 @@ My LeetCode solutions with multiple approaches in C++
 ## 📊 LeetCode Stats (Live)
 
 - Total Problems Solved: 60+
-- Easy: 25+
-- Medium: 30+
+- Easy: 31+
+- Medium: 34+
 - Hard: 5+
-- Current Rank: ~2.0M  
+- Current Rank: ~1.8M  
 - Strong Topics: Linked List, Stack, Queue  
 - Currently Learning: Binary Search Tree (BST)
 
